@@ -1,6 +1,8 @@
  
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
+         
+
         ListNode current = head;
         int length=0;
         while(current!=null){
