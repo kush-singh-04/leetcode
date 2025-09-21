@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kush-singh-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kush-singh-04/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kush-singh-04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/kush-singh-04/leetcode/tree/master/0792-binary-search) |
 | [2411-spiral-matrix-iv](https://github.com/kush-singh-04/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Matrix
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kush-singh-04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/kush-singh-04/leetcode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
