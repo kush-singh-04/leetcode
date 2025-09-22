@@ -31,8 +31,10 @@ class Solution {
         }
         ListNode secondhalf=slow.next;
         slow.next=null;
+
         firsthalf=sortList(firsthalf);
         secondhalf=sortList(secondhalf);
+        
         ListNode ans = merge(firsthalf,secondhalf);
         return ans;
         
