@@ -5,7 +5,7 @@ class Solution {
         Node t2 = head2;
         while(t1 != null){
             Node temp = new Node(t1.val);
-            t2.next = temp;   // ✅ fix
+            t2.next = temp;   
             t2 = t2.next;
             t1 = t1.next;
         }
@@ -14,7 +14,7 @@ class Solution {
 
     public void connectAlternatively(Node head, Node head2){
         Node t1 = head;
-        Node t2 = head2;  // ✅ fix
+        Node t2 = head2;  
         Node dummy = new Node(-1);
         Node t = dummy;
         while(t1 != null && t2 != null){
@@ -28,7 +28,7 @@ class Solution {
         }
     }
 
-    public void split(Node head, Node head2){  // ✅ fix
+    public void split(Node head, Node head2){  
         Node t1 = head;
         Node t2 = head2;
         while(t1 != null){
@@ -45,7 +45,7 @@ class Solution {
         Node t2 = head2;
         while(t1 != null){
             t2 = t1.next;
-            if(t1.random != null) t2.random = t1.random.next;  // ✅ fix
+            if(t1.random != null) t2.random = t1.random.next; 
             t1 = t1.next.next;
         }
     }
