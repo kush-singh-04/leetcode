@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/kush-singh-04/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kush-singh-04/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/kush-singh-04/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kush-singh-04/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kush-singh-04/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
