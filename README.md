@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kush-singh-04/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kush-singh-04/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Depth-First Search
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/kush-singh-04/leetcode/tree/master/0257-binary-tree-paths) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kush-singh-04/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kush-singh-04/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
@@ -275,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kush-singh-04/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
