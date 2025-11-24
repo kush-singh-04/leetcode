@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/kush-singh-04/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/kush-singh-04/leetcode/tree/master/1046-last-stone-weight) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kush-singh-04/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kush-singh-04/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/kush-singh-04/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/kush-singh-04/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -367,5 +372,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/kush-singh-04/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
