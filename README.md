@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/kush-singh-04/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kush-singh-04/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kush-singh-04/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kush-singh-04/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/kush-singh-04/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kush-singh-04/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kush-singh-04/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kush-singh-04/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/kush-singh-04/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kush-singh-04/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/kush-singh-04/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kush-singh-04/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kush-singh-04/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Search
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kush-singh-04/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kush-singh-04/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kush-singh-04/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Backtracking
 |  |
