@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kush-singh-04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kush-singh-04/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kush-singh-04/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/kush-singh-04/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kush-singh-04/leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
