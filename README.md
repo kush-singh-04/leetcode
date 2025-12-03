@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kush-singh-04/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/kush-singh-04/leetcode/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/kush-singh-04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
