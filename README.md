@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kush-singh-04/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kush-singh-04/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kush-singh-04/leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kush-singh-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kush-singh-04/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kush-singh-04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/kush-singh-04/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kush-singh-04/leetcode/tree/master/0257-binary-tree-paths) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
