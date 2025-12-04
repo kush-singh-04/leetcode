@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/kush-singh-04/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/kush-singh-04/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kush-singh-04/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/kush-singh-04/leetcode/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/kush-singh-04/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/kush-singh-04/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kush-singh-04/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kush-singh-04/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bitmask
