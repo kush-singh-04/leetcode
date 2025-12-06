@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/kush-singh-04/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kush-singh-04/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kush-singh-04/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kush-singh-04/leetcode/tree/master/0257-binary-tree-paths) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kush-singh-04/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kush-singh-04/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kush-singh-04/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kush-singh-04/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kush-singh-04/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kush-singh-04/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/kush-singh-04/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bit Manipulation
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kush-singh-04/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/kush-singh-04/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/kush-singh-04/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/kush-singh-04/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
