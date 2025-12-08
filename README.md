@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kush-singh-04/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kush-singh-04/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/kush-singh-04/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [1168-duplicate-zeros](https://github.com/kush-singh-04/leetcode/tree/master/1168-duplicate-zeros) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kush-singh-04/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kush-singh-04/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kush-singh-04/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kush-singh-04/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kush-singh-04/leetcode/tree/master/0257-binary-tree-paths) |
+| [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kush-singh-04/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kush-singh-04/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
