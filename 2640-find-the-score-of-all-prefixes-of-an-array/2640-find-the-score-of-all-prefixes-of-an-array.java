@@ -3,15 +3,15 @@ class Solution {
         int n = nums.length;
         long[] ans = new long[n];
 
-        int max = nums[0];
-        ans[0] = nums[0]+max;
-
-        for(int i =1;i<nums.length;i++){
+        long max = nums[0];
+        for(int i =0;i<nums.length;i++){
             max = Math.max(max,nums[i]);
-            ans[i] = ans[i - 1] + nums[i] + max;
+            ans[i]= nums[i]+max;
+        }
+        for(int i=1;i<nums.length;i++){
+            ans[i] +=ans[i-1];
         }
         return ans;
-
 
     }
 }
