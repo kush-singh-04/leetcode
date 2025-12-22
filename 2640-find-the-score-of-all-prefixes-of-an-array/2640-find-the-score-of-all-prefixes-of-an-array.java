@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         long[] ans = new long[n];
 
-        long max = Integer.MIN_VALUE;
+        long max = nums[0];
         for(int i =0;i<nums.length;i++){
             max = Math.max(max,nums[i]);
             ans[i]= nums[i]+max;
