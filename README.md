@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kush-singh-04/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1168-duplicate-zeros](https://github.com/kush-singh-04/leetcode/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/kush-singh-04/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kush-singh-04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1480-running-sum-of-1d-array](https://github.com/kush-singh-04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kush-singh-04/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kush-singh-04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kush-singh-04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kush-singh-04/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kush-singh-04/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search Tree
