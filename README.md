@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/kush-singh-04/leetcode/tree/master/1046-last-stone-weight) |
+| [1052-grumpy-bookstore-owner](https://github.com/kush-singh-04/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/kush-singh-04/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/kush-singh-04/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1168-duplicate-zeros](https://github.com/kush-singh-04/leetcode/tree/master/1168-duplicate-zeros) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kush-singh-04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kush-singh-04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1052-grumpy-bookstore-owner](https://github.com/kush-singh-04/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kush-singh-04/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kush-singh-04/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/kush-singh-04/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
