@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kush-singh-04/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0938-range-sum-of-bst](https://github.com/kush-singh-04/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kush-singh-04/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/kush-singh-04/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kush-singh-04/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/kush-singh-04/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kush-singh-04/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kush-singh-04/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kush-singh-04/leetcode/tree/master/0226-invert-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kush-singh-04/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
