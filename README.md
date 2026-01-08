@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/kush-singh-04/leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kush-singh-04/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/kush-singh-04/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kush-singh-04/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kush-singh-04/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kush-singh-04/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kush-singh-04/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/kush-singh-04/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/kush-singh-04/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kush-singh-04/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kush-singh-04/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/kush-singh-04/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/kush-singh-04/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/kush-singh-04/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/kush-singh-04/leetcode/tree/master/3583-count-special-triplets) |
