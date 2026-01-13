@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/kush-singh-04/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kush-singh-04/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kush-singh-04/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1612-avoid-flood-in-the-city](https://github.com/kush-singh-04/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kush-singh-04/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kush-singh-04/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kush-singh-04/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kush-singh-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kush-singh-04/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kush-singh-04/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -603,5 +605,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/kush-singh-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/kush-singh-04/leetcode/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kush-singh-04/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kush-singh-04/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/kush-singh-04/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
