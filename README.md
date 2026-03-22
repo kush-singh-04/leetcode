@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/kush-singh-04/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kush-singh-04/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kush-singh-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kush-singh-04/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kush-singh-04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kush-singh-04/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/kush-singh-04/leetcode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/kush-singh-04/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kush-singh-04/leetcode/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
