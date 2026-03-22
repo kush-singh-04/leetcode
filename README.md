@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/kush-singh-04/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kush-singh-04/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kush-singh-04/leetcode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/kush-singh-04/leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kush-singh-04/leetcode/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
