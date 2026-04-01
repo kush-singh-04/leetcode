@@ -3,14 +3,29 @@ class Solution {
         int n = arr.length;
         int m = arr[0].length;
         int[][] dp = new int[n][m];
+        
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(i==0 && j==0) dp[i][j]=arr[i][j];
-                else if(i==0) dp[i][j] = arr[i][j]+dp[i][j-1];
-                else if(j==0) dp[i][j] = arr[i][j]+dp[i-1][j];
-                else dp[i][j] = arr[i][j] + Math.min(dp[i][j-1],dp[i-1][j]);
+                dp[i][j] = -1;
             }
         }
-        return dp[n-1][m-1];
+        
+        return paths(n-1, m-1, arr, dp);
+    }
+
+    private int paths(int row, int col, int[][] arr, int[][] dp){
+        if(row == 0 && col == 0) 
+            return arr[0][0];
+
+        if(row < 0 || col < 0) 
+            return Integer.MAX_VALUE;
+
+        if(dp[row][col] != -1) 
+            return dp[row][col];
+
+        int up = paths(row-1, col, arr, dp);
+        int left = paths(row, col-1, arr, dp);
+
+        return dp[row][col] = arr[row][col] + Math.min(up, left);
     }
 }
