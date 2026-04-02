@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kush-singh-04/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/kush-singh-04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/kush-singh-04/leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/kush-singh-04/leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kush-singh-04/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kush-singh-04/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kush-singh-04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kush-singh-04/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/kush-singh-04/leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/kush-singh-04/leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kush-singh-04/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kush-singh-04/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kush-singh-04/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kush-singh-04/leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/kush-singh-04/leetcode/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/kush-singh-04/leetcode/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/kush-singh-04/leetcode/tree/master/0841-keys-and-rooms) |
