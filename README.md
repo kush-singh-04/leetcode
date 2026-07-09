@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kush-singh-04/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/kush-singh-04/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/kush-singh-04/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/kush-singh-04/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/kush-singh-04/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/kush-singh-04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kush-singh-04/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kush-singh-04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kush-singh-04/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/kush-singh-04/leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/kush-singh-04/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kush-singh-04/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/kush-singh-04/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kush-singh-04/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
