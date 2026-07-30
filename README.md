@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/kush-singh-04/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [1168-duplicate-zeros](https://github.com/kush-singh-04/leetcode/tree/master/1168-duplicate-zeros) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kush-singh-04/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/kush-singh-04/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kush-singh-04/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/kush-singh-04/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kush-singh-04/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kush-singh-04/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/kush-singh-04/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/kush-singh-04/leetcode/tree/master/1612-avoid-flood-in-the-city) |
