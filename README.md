@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kush-singh-04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kush-singh-04/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kush-singh-04/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kush-singh-04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kush-singh-04/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kush-singh-04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-singh-04/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kush-singh-04/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kush-singh-04/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kush-singh-04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kush-singh-04/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kush-singh-04/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/kush-singh-04/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kush-singh-04/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kush-singh-04/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/kush-singh-04/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kush-singh-04/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kush-singh-04/leetcode/tree/master/0242-valid-anagram) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -667,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kush-singh-04/leetcode/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
