@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kush-singh-04/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kush-singh-04/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kush-singh-04/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/kush-singh-04/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kush-singh-04/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/kush-singh-04/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kush-singh-04/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kush-singh-04/leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/kush-singh-04/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/kush-singh-04/leetcode/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kush-singh-04/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kush-singh-04/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/kush-singh-04/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kush-singh-04/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kush-singh-04/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kush-singh-04/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/kush-singh-04/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kush-singh-04/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
