@@ -703,4 +703,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kush-singh-04/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kush-singh-04/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
