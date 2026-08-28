@@ -3,7 +3,7 @@ class Solution {
         reverseHelper(s, 0, s.length - 1);
     }
 
-    private void reverseHelper(char[] s, int start, int end) {
+    public void reverseHelper(char[] s, int start, int end) {
         if (start >= end) {
             return;
         }
