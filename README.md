@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kush-singh-04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kush-singh-04/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kush-singh-04/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kush-singh-04/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kush-singh-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kush-singh-04/leetcode/tree/master/0948-bag-of-tokens) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/kush-singh-04/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/kush-singh-04/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/kush-singh-04/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kush-singh-04/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kush-singh-04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kush-singh-04/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [1328-break-a-palindrome](https://github.com/kush-singh-04/leetcode/tree/master/1328-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kush-singh-04/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kush-singh-04/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kush-singh-04/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/kush-singh-04/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kush-singh-04/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -678,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kush-singh-04/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Design
 |  |
 | ------- |
