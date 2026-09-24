@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kush-singh-04/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kush-singh-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/kush-singh-04/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/kush-singh-04/leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/kush-singh-04/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kush-singh-04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/kush-singh-04/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kush-singh-04/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/kush-singh-04/leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/kush-singh-04/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kush-singh-04/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kush-singh-04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kush-singh-04/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kush-singh-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/kush-singh-04/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/kush-singh-04/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/kush-singh-04/leetcode/tree/master/0792-binary-search) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kush-singh-04/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kush-singh-04/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/kush-singh-04/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/kush-singh-04/leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/kush-singh-04/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kush-singh-04/leetcode/tree/master/0948-bag-of-tokens) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/kush-singh-04/leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/kush-singh-04/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/kush-singh-04/leetcode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/kush-singh-04/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/kush-singh-04/leetcode/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/kush-singh-04/leetcode/tree/master/1018-largest-perimeter-triangle) |
